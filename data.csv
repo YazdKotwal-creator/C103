@@ -1,0 +1,237 @@
+date,cases,country
+16/06/2020,43,China
+15/06/2020,47,China
+14/06/2020,60,China
+13/06/2020,12,China
+12/06/2020,7,China
+11/06/2020,11,China
+10/06/2020,4,China
+09/06/2020,3,China
+08/06/2020,5,China
+07/06/2020,9,China
+06/06/2020,6,China
+05/06/2020,11,China
+04/06/2020,1,China
+03/06/2020,5,China
+02/06/2020,7,China
+01/06/2020,19,China
+31/05/2020,5,China
+30/05/2020,17,China
+29/05/2020,0,China
+28/05/2020,3,China
+27/05/2020,1,China
+26/05/2020,7,China
+25/05/2020,11,China
+24/05/2020,3,China
+23/05/2020,2,China
+22/05/2020,12,China
+21/05/2020,2,China
+20/05/2020,2,China
+19/05/2020,9,China
+18/05/2020,10,China
+17/05/2020,6,China
+16/05/2020,9,China
+15/05/2020,5,China
+14/05/2020,6,China
+13/05/2020,7,China
+12/05/2020,1,China
+11/05/2020,19,China
+10/05/2020,15,China
+09/05/2020,0,China
+08/05/2020,6,China
+07/05/2020,2,China
+06/05/2020,2,China
+05/05/2020,2,China
+04/05/2020,3,China
+03/05/2020,2,China
+02/05/2020,3,China
+01/05/2020,12,China
+30/04/2020,4,China
+29/04/2020,2,China
+
+16/06/2020,10667,India
+15/06/2020,11502,India
+14/06/2020,11929,India
+13/06/2020,11458,India
+12/06/2020,10956,India
+11/06/2020,9996,India
+10/06/2020,9985,India
+09/06/2020,9987,India
+08/06/2020,9983,India
+07/06/2020,9971,India
+06/06/2020,9887,India
+05/06/2020,9851,India
+04/06/2020,9304,India
+03/06/2020,8909,India
+02/06/2020,8171,India
+01/06/2020,8392,India
+31/05/2020,8380,India
+30/05/2020,7964,India
+29/05/2020,7466,India
+28/05/2020,6566,India
+27/05/2020,6387,India
+26/05/2020,6535,India
+25/05/2020,6977,India
+24/05/2020,6767,India
+23/05/2020,6654,India
+22/05/2020,6088,India
+21/05/2020,5609,India
+20/05/2020,5611,India
+19/05/2020,4970,India
+18/05/2020,5242,India
+17/05/2020,4987,India
+16/05/2020,3970,India
+15/05/2020,3967,India
+14/05/2020,3722,India
+13/05/2020,3525,India
+12/05/2020,3604,India
+11/05/2020,4213,India
+10/05/2020,3277,India
+09/05/2020,3320,India
+08/05/2020,3390,India
+07/05/2020,3561,India
+06/05/2020,2958,India
+05/05/2020,3900,India
+04/05/2020,2553,India
+03/05/2020,2644,India
+02/05/2020,2293,India
+
+16/06/2020,301,Italy
+15/06/2020,338,Italy
+14/06/2020,346,Italy
+13/06/2020,163,Italy
+12/06/2020,379,Italy
+11/06/2020,202,Italy
+10/06/2020,283,Italy
+09/06/2020,280,Italy
+08/06/2020,197,Italy
+07/06/2020,270,Italy
+06/06/2020,518,Italy
+05/06/2020,177,Italy
+04/06/2020,321,Italy
+03/06/2020,318,Italy
+02/06/2020,178,Italy
+01/06/2020,355,Italy
+31/05/2020,416,Italy
+30/05/2020,516,Italy
+29/05/2020,593,Italy
+28/05/2020,584,Italy
+27/05/2020,397,Italy
+26/05/2020,300,Italy
+25/05/2020,531,Italy
+24/05/2020,669,Italy
+23/05/2020,652,Italy
+22/05/2020,642,Italy
+21/05/2020,665,Italy
+20/05/2020,813,Italy
+19/05/2020,451,Italy
+18/05/2020,675,Italy
+17/05/2020,875,Italy
+
+16/06/2020,85,Japan
+15/06/2020,73,Japan
+14/06/2020,47,Japan
+13/06/2020,50,Japan
+12/06/2020,40,Japan
+11/06/2020,41,Japan
+10/06/2020,41,Japan
+09/06/2020,36,Japan
+08/06/2020,33,Japan
+07/06/2020,38,Japan
+06/06/2020,39,Japan
+05/06/2020,46,Japan
+04/06/2020,32,Japan
+03/06/2020,56,Japan
+02/06/2020,46,Japan
+01/06/2020,33,Japan
+31/05/2020,47,Japan
+30/05/2020,85,Japan
+29/05/2020,68,Japan
+28/05/2020,0,Japan
+27/05/2020,28,Japan
+26/05/2020,42,Japan
+25/05/2020,31,Japan
+24/05/2020,14,Japan
+23/05/2020,23,Japan
+22/05/2020,89,Japan
+
+16/06/2020,8246,Russia
+15/06/2020,8835,Russia
+14/06/2020,8706,Russia
+13/06/2020,8987,Russia
+12/06/2020,8779,Russia
+11/06/2020,8404,Russia
+10/06/2020,8595,Russia
+09/06/2020,8985,Russia
+08/06/2020,8984,Russia
+07/06/2020,8855,Russia
+06/06/2020,8726,Russia
+05/06/2020,8831,Russia
+04/06/2020,8536,Russia
+03/06/2020,8863,Russia
+02/06/2020,9035,Russia
+01/06/2020,9268,Russia
+31/05/2020,8952,Russia
+30/05/2020,8572,Russia
+29/05/2020,8371,Russia
+28/05/2020,8338,Russia
+27/05/2020,8915,Russia
+26/05/2020,8946,Russia
+25/05/2020,8599,Russia
+24/05/2020,9434,Russia
+23/05/2020,8894,Russia
+22/05/2020,8849,Russia
+21/05/2020,8764,Russia
+20/05/2020,9263,Russia
+19/05/2020,8926,Russia
+18/05/2020,9709,Russia
+17/05/2020,9200,Russia
+
+16/06/2020,19957,United States of America
+15/06/2020,19543,United States of America
+14/06/2020,25540,United States of America
+13/06/2020,25639,United States of America
+12/06/2020,22883,United States of America
+11/06/2020,20614,United States of America
+10/06/2020,18665,United States of America
+09/06/2020,18822,United States of America
+08/06/2020,22302,United States of America
+07/06/2020,22223,United States of America
+06/06/2020,25178,United States of America
+05/06/2020,21140,United States of America
+04/06/2020,19699,United States of America
+03/06/2020,20544,United States of America
+02/06/2020,21086,United States of America
+01/06/2020,19807,United States of America
+31/05/2020,23297,United States of America
+30/05/2020,25337,United States of America
+29/05/2020,21817,United States of America
+28/05/2020,18721,United States of America
+27/05/2020,18910,United States of America
+26/05/2020,19064,United States of America
+25/05/2020,20568,United States of America
+24/05/2020,21236,United States of America
+23/05/2020,24147,United States of America
+22/05/2020,25434,United States of America
+21/05/2020,23285,United States of America
+20/05/2020,19970,United States of America
+19/05/2020,21841,United States of America
+18/05/2020,18873,United States of America
+17/05/2020,24487,United States of America
+16/05/2020,25508,United States of America
+15/05/2020,27143,United States of America
+14/05/2020,20782,United States of America
+13/05/2020,22048,United States of America
+12/05/2020,18117,United States of America
+11/05/2020,20258,United States of America
+10/05/2020,25612,United States of America
+09/05/2020,26957,United States of America
+08/05/2020,28369,United States of America
+07/05/2020,24128,United States of America
+06/05/2020,23841,United States of America
+05/05/2020,22593,United States of America
+04/05/2020,24972,United States of America
+03/05/2020,29288,United States of America
+02/05/2020,33955,United States of America
+01/05/2020,29917,United States of America
+25/02/2020,18,United States of America
